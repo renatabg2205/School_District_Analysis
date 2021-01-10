@@ -15,6 +15,7 @@ The purpose of this analysis is to help the City School District Board to make s
 ### |||||||||||Using bulleted lists and images of DataFrames as support, address the following questions|||||||||||
 
 - How is the district summary affected?
+After replacing the 9th graders scores for Thomas High School, the new results are slightly lower.
 
 ![District Summary including 9th graders' scores](./analysis/district_summary_1.PNG)
 
