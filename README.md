@@ -49,7 +49,8 @@ Top 5 schools excluding 9th graders' scores:
 
 
 - How does replacing the ninth-grade scores affect the following:
--- Math and reading scores: Other than displaying "nan" in place of the Thomas High School’s 9th graders' scores, this replacement does not affect math and reading scores by grade.
+
+   - Math and reading scores: Other than displaying "nan" in place of the Thomas High School’s 9th graders' scores, this replacement does not affect math and reading scores by grade.
 
 
 Math scores by grade including 9th graders' scores:
@@ -70,7 +71,7 @@ Reading scores by grade excluding 9th graders' scores:
 
 
 
--- Scores by school spending: 
+   - Scores by school spending: 
 Replacing the Thomas High School’s 9th graders' scores does not affect scores by school spending.
 
 Scores by school spending including 9th graders' scores:
@@ -82,7 +83,7 @@ Scores by school spending excluding 9th graders' scores:
 ![Scores by school spending excluding 9th graders' scores](./analysis/scores_by_spending_2.PNG)
 
 
--- Scores by school size:
+   - Scores by school size:
 Replacing the Thomas High School’s 9th graders' scores does not affect scores by school size.
 
 Scores by school size including 9th graders' scores:
@@ -94,7 +95,7 @@ Scores by school size excluding 9th graders' scores:
 ![Scores by school size excluding 9th graders' scores](./analysis/scores_by_size_2.PNG)
 
 
--- Scores by school type:
+   - Scores by school type:
 Replacing the Thomas High School’s 9th graders' scores does not affect scores by school type.
 
 Scores by school type including 9th graders' scores:
@@ -107,3 +108,4 @@ Scores by school type excluding 9th graders' scores:
 
 
 ## Summary
+After replacing the Thomas High School’s 9th graders' scores with nan, the average math score, passing math percentage, passing reading percentage and overall passing percentage are slightly lower (-0.3) in the updated school district analysis.
