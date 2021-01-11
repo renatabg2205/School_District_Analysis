@@ -33,7 +33,7 @@ School Summary excluding 9th graders' scores:
 ![School Summary excluding 9th graders' scores](./analysis/school_summary_2.PNG)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Replacing them does not modify Thomas High School position on the top 5 chart. Although results are slightlyl lower, homas High School remains in 2nd position. 
+Replacing them does not modify Thomas High School position on the top 5 chart. Although results are slightlyl lower, Thomas High School remains in 2nd position. 
 
 Top 5 schools including 9th graders' scores:
 
