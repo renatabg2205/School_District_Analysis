@@ -46,7 +46,8 @@ Top 5 schools excluding 9th graders' scores:
 
 ### How does replacing the ninth-grade scores affect the following:
 
-#### Math and reading scores: Other than displaying "nan" in place of the Thomas High School’s 9th graders' scores, this replacement does not affect math and reading scores by grade.
+#### Math and reading scores: 
+Other than displaying "nan" in place of the Thomas High School’s 9th graders' scores, this replacement does not affect math and reading scores by grade.
 
 
 Math scores by grade including 9th graders' scores:
